@@ -144,7 +144,7 @@ export default function Home() {
               const middleIndex = Math.floor(5 / 2);
               const isCenter = index === middleIndex;
 
-              return (
+              return(
                 <div
                   key={product.id}
                   className={`transition-transform duration-500 ${isCenter ? "scale-110 z-10" : "scale-75 opacity-70"
