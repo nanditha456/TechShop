@@ -51,7 +51,7 @@ export default function Footer() {
             <div>
               <p className="px-8 font-medium">Company</p>
               <ul className="text-gray-500 mt-4 space-y-4 text-sm">
-                <li className="hover:text-red-500">About Us with</li>
+                <li className="hover:text-red-500">About Us</li>
                 <li className="hover:text-red-500" >Contact Us</li>
                 <li className="hover:text-red-500">Service Centers</li>
                 <li className="hover:text-red-500">Careers</li>
@@ -69,7 +69,7 @@ export default function Footer() {
             <ul className="flex gap-7 md:mt-0">
               
               <li>
-                  <span className="sr-only">Facebook</span>
+                  <span className="sr-only">Instagram</span>
                   <svg className="hover:text-red-500 cursor-pointer size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path
                       fillRule="evenodd"
