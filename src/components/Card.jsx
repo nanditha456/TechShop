@@ -28,7 +28,7 @@ function ProductCard({ product }) {
             (_, i) => (
               <FaStar key={i} style={{color: "red" }} />
             ))}
-          <span className="text-sm text-gray-400">  ({product.rateCount}) </span>
+          <span className="text-sm text-gray-400">({product.rateCount}) </span>
         </div>
         <button
           onClick={(e) => {
