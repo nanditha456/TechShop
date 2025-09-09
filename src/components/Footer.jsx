@@ -69,7 +69,7 @@ export default function Footer() {
             <ul className="flex gap-7 md:mt-0">
               
               <li>
-                  <span className="sr-only">Instagram</span>
+                  <span className="sr-only">Facebook</span>
                   <svg className="hover:text-red-500 cursor-pointer size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path
                       fillRule="evenodd"
