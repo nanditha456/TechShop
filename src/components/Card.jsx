@@ -26,7 +26,7 @@ function ProductCard({ product }) {
         <div className="flex items-center gap-1 mt-2">
           {Array.from({ length: Math.round(product.rateCount || 0) }).map(
             (_, i) => (
-              <FaStar key={i} style={{ color: "red" }} />
+              <FaStar key={i} style={{color: "red" }} />
             ))}
           <span className="text-sm text-gray-400">  ({product.rateCount}) </span>
         </div>
