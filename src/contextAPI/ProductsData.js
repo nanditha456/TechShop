@@ -76,7 +76,7 @@ import sonyxb400_3 from "../assets/sonyxb400-3.png"
 import sonyxb400_4 from "../assets/sonyxb400-4.png"
 const data = [
     {
-        id: 2,
+        id: 1,
         tag: "hero-product",
         tagline: "Keep the noise out, or in. You choose.",
         image:jbl660nc,
@@ -119,7 +119,7 @@ const data = [
         connectivity: "Wireless",
         finalPrice: 1299,
         originalPrice: 3990,
-        quantity: 1,
+        quantity: 10,
         ratings: 1321,
         rateCount: 5,
         path: "/product-details/",
