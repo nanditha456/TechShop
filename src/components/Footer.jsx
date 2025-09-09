@@ -28,7 +28,7 @@ export default function Footer() {
 
             <div>
               <p className="px-8 font-medium">Help</p>
-              <ul className="text-gray-500 mt-4 space-y-4 text-sm">
+              <ul className="text-gray-50 mt-4 space-y-4 text-sm">
                 <li className="hover:text-red-500">FAQs</li>
                 <li className="hover:text-red-500">Track Order</li>
                 <li className="hover:text-red-500">Cancel Order</li>
