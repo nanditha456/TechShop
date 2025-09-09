@@ -74,7 +74,7 @@ function CartPage() {
                   </div>
                 </div>
 
-                <div className="flex items-center justify-center gap-2 mt-2">
+                <div className="flex items-center justify-center gap-2 mt-20">
                     <button
                       onClick={() => dispatch(decreaseQuantity(item.id))}
                       className="bg-gray-600 py-1 px-3"

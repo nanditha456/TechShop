@@ -161,7 +161,7 @@ const data = [
         ],
         brand: "boAt",
         title: "boAt BassHeads 110",
-        info: "In-Ear Wired Headphones",
+        info: "In-Ear Wired Earphones",
         category: "Earphones",
         type: "In Ear",
         connectivity: "Wired",
