@@ -37,7 +37,7 @@ function ProductCard({ product }) {
           }}
           className={`mt-6 px-6 py-2 rounded-lg transition-colors ${added === product.id
             ? "bg-green-600 text-white hover:bg-green-700"
-            : "bg-red-500 text-white"
+            : "bg-red-500 text-red"
             }`}>
           {added === product.id ? "Added" : "Add to Cart"}
         </button>
