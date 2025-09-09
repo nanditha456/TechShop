@@ -141,7 +141,7 @@ const data = [
         info: "Wireless In-Ear Earbuds",
         category: "Earbuds",
         type: "In Ear",
-        connectivity: "Wireless",
+        connectivity: "Wireles",
         finalPrice: 1099,
         originalPrice: 2990,
         quantity: 1,
