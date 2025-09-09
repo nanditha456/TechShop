@@ -76,7 +76,7 @@ import sonyxb400_3 from "../assets/sonyxb400-3.png"
 import sonyxb400_4 from "../assets/sonyxb400-4.png"
 const data = [
     {
-        id: 1,
+        id: 2,
         tag: "hero-product",
         tagline: "Keep the noise out, or in. You choose.",
         image:jbl660nc,

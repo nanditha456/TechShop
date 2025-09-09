@@ -50,7 +50,7 @@ export default function Header() {
       clearTimeout(closeTimerRef.current);
       closeTimerRef.current = null;
     }
-    setUserDropdownOpen(false);
+    setUserDropdownOpen(true);
   };
 
   const handleMouseLeave = () => {
