@@ -41,8 +41,7 @@ function ProductCard({ product }) {
             }`}>
           {added === product.id ? "Added" : "Add to Cart"}
         </button>
-
-    </div>
+        </div>
   );
 }
 
